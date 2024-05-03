@@ -12,8 +12,6 @@
 
 - 🚀 Eagerly seeking opportunities **to expand my expertise in Data Science and explore the latest advancements in technology.**
 
-- 🚀 2024 Goals: **🎯 I aim to sharpen my expertise in advanced data analytics techniques, driving impactful projects, while also delving into various technology domains to foster a dynamic skill set adaptable to industry evolution.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aishwarya bachate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya bachate" height="30" width="40" /></a>
